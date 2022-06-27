@@ -6,6 +6,7 @@ yarn
 yarn build
 cp -r dist ../
 
+
 # github
 cd ../assets
 rm -rf dist
